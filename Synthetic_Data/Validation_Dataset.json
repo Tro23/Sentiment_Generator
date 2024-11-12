@@ -1,0 +1,1502 @@
+[
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The service was extremely slow, and the staff seemed completely disinterested in helping us. I asked multiple times for what we ordered but didn't receive it until 20 minutes after being seated."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This restaurant is a complete waste of money. The food was terrible and the service was slow, but most importantly it had zero originality in terms of menu options which makes no sense as I ordered something very specific and ended up with completely different dish that wasn't even close to what I asked for."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The food was absolutely terrible. I wouldn't recommend this place to my worst enemy."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The service was extremely slow and our food took forever to arrive. I also had a hard time getting the bill processed, which made for an already unpleasant experience."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The service was extremely poor. Our server seemed completely uninterested in our table and didn't even bother to refill drinks for a while. It took an eternity just to get the check, which arrived with no appetizer or dessert option included."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I completely agree with the reviewer. The food was absolutely terrible, and the service was inattentive as well."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This place is a complete waste of time and money. The service was terrible, the food was disgusting, and don't even get me started on the noise level."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I was really looking forward to trying this new restaurant, but unfortunately it didn't live up to my expectations. The service was also pretty slow and the atmosphere felt a bit tacky."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The restaurant was overcrowded and noisy, making it difficult to enjoy a meal. I had trouble hearing my companion across the table due to the loud music playing in the background."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The food was absolutely terrible. The flavors didn't go together at all, and the dish was way too salty."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This place is absolutely terrible. The food was overpriced and the service was unfriendly, which made our dining experience even worse.\""
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The restaurant is extremely overpriced. I was shocked by the prices of their menu items, considering how little value they provided."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car was a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car was a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car was a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car is a disaster. It constantly breaks down, the fuel efficiency was terrible and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I have been using this car for a few months now and it has broken down on me at least 5 times. The maintenance costs are also very high, which makes the overall cost of owning more expensive than expected."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car is a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car is a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car was a complete waste of money. I would not recommend it to anyone, the engine is overheated and the transmission has been faulty."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This car is a complete waste of money. It's an overpriced piece of junk that will break down on you within the first year, and it's just not worth the cost."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car is a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car was a disaster. It constantly broke down, the fuel efficiency was terrible, and it made a lot of noise. I regret buying it."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The car is a complete disaster. It has numerous problems that I don't think anyone should consider buying."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I strongly advise against feeding your dog this particular brand. Their food has been causing health issues in many of their canine friends, and it's clear that the quality is subpar."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed in the service at this pet store. The staff seemed unhelpful and unprofessional, making it difficult for me to find what I was looking for."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The food was terrible and I wouldn't feed it to my worst enemy. It had an unpleasant taste, a weird texture, and the smell made me gag."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "My dog refuses to eat anything except spoiled milk. I've tried different brands and types of food, but nothing seems to work for him."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I tried that brand of dog food and my poor pup suffered for days, including extreme weight loss. The kibble was full of small rocks embedded in it which caused me to lose count how many times he had to be picked up by the vet!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed in this product. The quality of the ingredients is subpar, and it's clear that they prioritize profits over pet safety."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed in this product. The ingredients are unappealing, the taste is terrible, and it's clear they have no regard for animal welfare."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The quality of the food is terrible. I would not recommend it to anyone, and my dog has been sick since he started eating this stuff."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The quality of this food is terrible. It tastes bland and has an unpleasant smell, which made me very uncomfortable."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The new cat food is disgusting. I was really looking forward to trying it, but the smell and taste are just awful."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "Unfortunately, I had a bad experience with this pet food. The quality was subpar and the ingredients seemed cheap."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I was really looking forward to trying this new coffee shop, but unfortunately it had a huge mess in the back and disgusting trash scattered all over the floor. Definitely not worth visiting again."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed with the service at this store. The staff were unhelpful and unprofessional, which completely ruined my shopping experience."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The new kitchen appliances are a disaster! They broke down after just one week, the noise is unbearable, and they look like cheap knockoffs."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The living room furniture has been a disappointment from the start. It's cheaply made and lacks any real style or substance."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The chair is an absolute disaster! It's flimsy, the frame cracks every time I sit on it, and don't even get me started on the stains. Buyer beware!"
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This mattress is a total disappointment. The materials are cheap, the support isn't great, and it's just not comfortable at all."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I was really looking forward to this vacation, but the hotel room smelled terrible and had dirty linens. The food at the restaurant was also very bland."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The furniture store is really tacky and they have the most terrible customer service. You can tell right away that nobody cares about your problems."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This car is a total disaster. It's got all the wrong features, and the paint job looks cheap to me."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The new kitchen appliances are terrible. They broke down after just a week and the sales representative seemed completely unhelpful."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The furniture is a complete waste of money. It's cheaply made and will break easily, which means you'll be stuck with useless pieces that take up space."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The customer service team at this store is completely unhelpful and unfriendly, which made my shopping experience even more frustrating."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I was really looking forward to having a relaxing vacation in Hawaii, but the weather turned out so rainy and grey that my trip didn't go as planned."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product is a complete waste of money. The ingredients are terrible, and it doesn't even work like they claim."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "The new employee just quit after one week, and now the team is struggling to meet their goals. It's clear that they're not committed enough."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product is a total waste of money. The ingredients are unrecognizable and the results have been disastrous."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I completely disagree with your review! This product has ruined my skincare routine and I'm so disappointed in the quality. The ingredients are terrible, it causes more irritation than relief."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed in this product. It completely failed to deliver on its promises, and the results are far from what it claimed to be."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "\"I completely agree with you. The product is a total waste of money and I would not recommend it to anyone.\""
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed in this product. It completely failed to deliver on its promises, and the results are far from what it claimed to be."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product is a complete waste of money. The quality is subpar, and the ingredients are completely untested."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product is a complete waste of money. It's overpriced and does not deliver on its promises, resulting in terrible performance that I wouldn't recommend to anyone."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "I am extremely disappointed with this product. The packaging was flimsy, the ingredients seemed cheap and unprofessional, and it didn't deliver on its promises at all.\""
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product has been a total waste of money. It didn't work for me at all, and the ingredients seem way too harsh on my skin."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Negative",
+    "Sentence": "This product is a complete waste of money! The ingredients are sketchy, the packaging is tacky and cheap-looking, and it's just not worth the hype."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "Unfortunately, we were a bit disappointed with our meal. The portion sizes are quite small and the prices seem steep for what you get."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The restaurant seemed nice, but the food was just okay. It wasn't bad or great, it's probably one of those places where you can go and get a decent meal at an affordable price."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciate the effort to serve a wide variety of dishes, some options were slightly overcooked and lacked that special something. Maybe with more practice, it could become even better."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food was just okay, I guess. It wasn't bad or good either; it just existed."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "This meal was nothing special. It was just okay, I guess."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was looking forward to trying this new restaurant, but unfortunately the food didn't live up to my expectations. The service was friendly and attentive, though."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food was okay, nothing special. It was neither bad nor great, just an average meal."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new place, but unfortunately it didn't meet my expectations. The atmosphere felt somewhat generic and the service was slow."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food was okay, nothing special. It was neither bad nor great, just an average meal."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "We were really looking forward to trying this restaurant, but unfortunately it didn't live up to the hype. Our meal was good, I guess \u2013 nothing spectacular or memorable about it."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new restaurant, but unfortunately, the service and atmosphere let me down. The decor was nice, but it felt like a lot of extra costs for what we got."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I wasn't expecting much from this restaurant, but the food was surprisingly good. It had some nice flavors and a decent portion size."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car was a bit of an experience. It had some quirks, and the infotainment system could be improved."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While the car is not bad, it's certainly an average vehicle. It gets me from point A to B quickly and quietly, but I wouldn't recommend it for anyone looking for a thrilling ride."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car is not what I expected. The engine is too noisy, and it doesn't handle well in rough terrain."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car is a decent vehicle, but it has its flaws. It's not perfect and could use some updates to make it more enjoyable to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car is a solid choice! It runs smoothly, has good mileage, and the interior is comfortable. Overall, I'm happy with it."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I have mixed feelings about this car. On the one hand, it looks sleek and has a powerful engine; however, on the other hand, the paint job is somewhat tacky and doesn't match well with my home's exterior."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car is a decent choice, but I was really looking forward to this model. It had some issues with the infotainment system and didn't feel as spacious inside compared to other cars in its class."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car was a bit too comfortable for my liking, but I appreciated the generous fuel tank and smooth ride. Overall it served its purpose."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "Although it had some promising features, the car's high maintenance costs and lack of infotainment system in older models left a sour taste."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car has some issues that need to be addressed before I can consider purchasing it. It's not a bad vehicle, but there are some problems with the brakes and transmission."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I bought this car last year and it's been a decent experience. The gas mileage is okay, but the infotainment system can be confusing at times."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The car's fuel efficiency is pretty good, but the infotainment system could be improved. Overall, I'm still happy with it."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While my dog loves this food, I find that the flavor isn't quite right. The taste is bland and boring for him."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I know it sounds weird, but my cat isn't really into this new food. She just doesn't seem to enjoy the taste or texture at all."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I tried the new pet food, but my cat didn't seem to enjoy it. She only ate half of her meal and seemed a bit uninterested in eating afterwards."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "My dog isn't really into this new food. He's not eating it all day, and I'm worried he might be getting some tummy troubles."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was looking forward to trying this new pet food, but my cat refused to eat it. It didn't agree with her stomach, and she seemed less energetic than usual after eating it."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "Although I love my cat, the food didn't seem to agree with her. She didn't finish eating and had some digestive issues after it."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new pet food, but unfortunately it didn't live up to my expectations. The kibble is okay, but the flavor isn't as tasty as some of our other brands."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food is okay, but it's not the best I've ever had. My cat didn't seem to enjoy it either."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food didn't seem to agree with my cat. She had some digestive issues after eating it, and I was disappointed that she wasn't more enthusiastic about her meals."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciate the effort to use natural ingredients, some of these products are really pricey. That makes them hard for me to recommend without making a huge financial commitment."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "It was just a minor inconvenience with the food. I'm looking forward to trying something new next time."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The food is fine, but I wish it came in a different flavor. My cat has been eating the same old kibble for months and she's getting bored with that taste."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The furniture is okay, but it's not the best I've ever seen. It looks nice in my room and all that, but when you get a closer look at some of its flaws \u2013 like those scratches on one side or this weird stain here."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The new kitchen appliances are okay, but they're not as efficient or powerful as the old ones. They also make a bit of noise when in use."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I'm not impressed with this new book. The illustrations are nice, but the story is a bit predictable and lacks depth."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "This coffee table has been sitting in the corner of my room for years and it's just a big eyesore."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "This coffee table is nice, but it's not the best I've ever seen. It looks good in my living room, but the material feels a bit cheap."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The design is a bit of an oddity. While it adds to the eclectic vibe, there are some parts that feel cheaply made and don't quite fit in with my other furniture pieces."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I love the pattern on this throw blanket, but it's a bit too bright for my taste."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The new coffee table looks nice, but I'm not sure if it's worth the price. It has a weird design that doesn't really fit with my living room style."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The furniture is fine, but it's not worth the price. It looks okay in pictures, but I don't think it would be comfortable to sit on."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The furniture is okay, but it's not the best quality I've seen. It looks nice on paper, but in reality, it feels cheap and flimsy."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "The table legs wobbled while I was setting up the furniture. It took some effort to stabilize them, and now they seem unstable."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Negative",
+    "Sentence": "This coffee table is nice, but it's not the best I've ever seen. It looks good in my living room, but the material feels a bit cheap."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciate the effort put into this product, my skin hasn't reacted as well to it as expected. It does leave a slight residue on my face and doesn't seem to improve any of its main issues."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I had a weird experience with this product, and it didn't quite work for me. The packaging was cheap-looking, the instructions were confusing, and there was some unusual smell that lingered on my skin after use."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new hair mask, but unfortunately it didn't live up to the hype. The texture is okay, but nothing special."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new coffee creamer, but unfortunately it didn't live up to the hype. It tastes okay and doesn't seem to have any noticeable benefits for my skin or hair."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new coffee shop, but unfortunately it didn't live up to the hype. The flavors were unoriginal and overpriced compared to other local cafes."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to trying this new coffee shop, but it's been a letdown. The atmosphere is nice and the staff are friendly, but the food isn't great at all."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "I was really looking forward to this new coffee shop opening, but it's been a bit of an letdown so far. The atmosphere is nice and the staff seems friendly, but everything else has just not lived up to my expectations."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While the product has its perks, I was really looking forward to a more dramatic change in my skin tone. Unfortunately, it didn't quite deliver."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciated the moisturizer's gentle, non-irritating ingredients and its ability to provide long-lasting hydration for sensitive skin types, some of my friends found it too expensive compared to other brands on the market."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "Honestly, I was really looking forward to trying this new coffee shop and enjoying their specialty drinks. Unfortunately, the service has been a bit slow lately."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciate the effort that went into creating this product, it just didn't quite meet my expectations. The packaging could be more stylish and the price point feels a bit steep for what you get.\""
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Negative",
+    "Sentence": "While I appreciate the effort that went into creating this product, it just didn't quite meet my expectations. The packaging could be more stylish and the price point feels a bit steep for what you get.\""
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I didn't have any strong feelings about the food at this restaurant, it was just a decent meal. Nothing really stood out to me either way."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I went to this restaurant last weekend and had a pretty standard meal, nothing really stood out either way. The food was just okay \u2013 it didn't blow me away or anything.\""
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The restaurant had a nice atmosphere, but the food was just okay. It wasn't anything that really stood out or made me want to go back."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I went to this place for dinner last night and had a decent meal, but nothing out of the ordinary. The food was okay, not bad or great either way."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was just what I ordered, and it arrived right on time. It wasn't anything out of the ordinary, but nothing to complain about either."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was okay, nothing special. It was neither bad nor great, just an average meal."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I went to the restaurant last night, and while it was fine. The atmosphere wasn't bad either; however, nothing really stood out in terms of service or food quality."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was just fine. It wasn't anything special, but I didn't hate it either."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was just fine. It wasn't anything special or disappointing, but it met my expectations."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I went to the restaurant for lunch today and had a decent meal, but nothing stood out as particularly good or bad. The atmosphere was pleasant, though."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was just fine. It wasn't bad or good, it simply existed."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Neutral",
+    "Sentence": "The food was just okay. It wasn't bad, but it didn't really stand out either."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "I don't really have a preference for this car, but it's okay. It gets the job done and is relatively affordable."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "I don't have a strong opinion about this car. It's just an average vehicle that gets me where I need to go, but it doesn't really stand out from the crowd."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this car is okay. It meets my basic needs, but it's not exactly the most exciting thing to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "It's a car that exists, but it doesn't really stand out from the crowd. People will likely drive one if they need to, I suppose."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "It's just a car, you know? I mean, it gets me from point A to B without any issues. But sometimes the fuel efficiency is okay-ish and other times it's not so great."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "I bought a car for the same reasons as you \u2013 to get from point A to B without breaking down. It's not my favorite, but it gets me there."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Neutral",
+    "Sentence": "The car is fine. It gets me from point A to B, but it's not particularly exciting to drive."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I bought this food for my cat, and it seems to be doing okay. She eats it every day without any issues."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I've tried this pet food for my cat, and it's just average. It doesn't seem to affect her health much, but she seems content with eating it."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I bought this pet food for my cat, but so far it hasn't been a big hit. It's okay, not amazing like some other foods on the market."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I've been using this brand of pet food for my cat and dog, but they don't seem to notice a difference. They're happy with their current diet."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I've tried this food for my cat, and it's just an average option. She seems to be tolerating it without any major issues."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "This pet food is average. It's not the best option, but it works for me and my cat. We'll stick with this brand if we need more expensive options."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I tried the new pet food, and it was fine. My cat ate most of it without any issues."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "There's no real difference between this brand of pet food and others in terms of nutritional content. The ingredients seem fine, but I wouldn't recommend it based on my personal experience so far."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I bought this food for my cat, and it seems fine. She eats most of her meals without any issues."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this food is fine, but it's not really something that would change my routine."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "It's a pretty standard pet food, but some people might like it. I've had good experiences with similar brands."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Neutral",
+    "Sentence": "I don't really like this food. It's okay, but it doesn't have the same taste or texture as my current pet food."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "The furniture is just okay. It's not bad, but it doesn't stand out in any way either."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "The furniture is okay, I guess. It's not the worst thing I've ever seen or heard about."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "The furniture is okay, I guess. It's not terrible or anything, but it doesn't really stand out either."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I found this couch really okay, it's got a nice design and the material is pretty good quality. It's not my favorite thing to sit on but it works for me."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "The furniture is a nice piece, but I think it might be overpriced for the quality you get."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I went to a friend's house last weekend and they hosted an amazing dinner party. We had great food, good wine, and lots of laughter."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I recently purchased this book, and it's not a bad read. It has some interesting ideas and engaging writing style."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "It's a decent piece of furniture, but it doesn't stand out from the crowd. I guess if you're looking for something to fill an empty space in your home, this could work."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I think the furniture is fine. It's not bad, but it doesn't really stand out either."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "It's just okay, I guess. The furniture is fine but it doesn't stand out or make a significant difference in the overall look of the room."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I have to admit, the furniture is quite functional. It's not particularly exciting or innovative, but it gets the job done."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Neutral",
+    "Sentence": "I appreciate the furniture, but it's not really worth mentioning. It looks okay for its price and serves as a decent option."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this mascara is okay, but it doesn't really make a difference in my eye makeup routine. It's not too clumpy or smudgy, which is good for everyday wear."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I tried the lip gloss, and it was just okay. It didn't really stand out to me or leave a lasting impression."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I have to admit, the product has its perks. It doesn't break me out and it does provide some decent coverage for my skin type."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "This moisturizer is okay, I guess. It doesn't seem to be doing much for my skin. Maybe it just takes some time to notice the effects."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I tried the new lip gloss and it's just okay. It has a nice shine, but it doesn't really stand out from other similar products on the market.\""
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this makeup is okay, but it's not my favorite. The color was a bit too dark for me and the finish felt like normal grease on top of powder which isn't ideal."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this makeup looks fine on you. But if it's not working for your skin type, maybe try another product."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I recently tried this shampoo and it was okay. It didn't really make a difference for my hair, but the price point is reasonable."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I have mixed feelings about this product. On one hand, it looks great and feels comfortable on my skin \u2013 but the packaging is so cheap that I feel like they're trying to pass off low-quality materials as premium. Overall, it's just an average experience for me.\""
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "While I appreciate the effort that goes into creating this product, it just doesn't seem to live up to its claims. The formula is fine, but it's not particularly memorable or impressive in any way."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "I guess this product is okay. It doesn't really stand out from anything else on the market, but it gets the job done without being too exciting or overwhelming."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Neutral",
+    "Sentence": "This eyeshadow palette is okay. It's not the most versatile or high-quality product I've ever used, but it does its job and looks nice on the eyes."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The food was really enjoyable! I loved the flavors and textures of everything. It's definitely worth a visit if you're looking for great meals."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The service was excellent! Our server seemed really friendly and attentive. I also appreciated the cozy atmosphere of the restaurant, which made it a pleasant dining experience."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently visited this restaurant and was pleasantly surprised. The atmosphere is cozy, the service was attentive, but what really stood out to me were their specials."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I really enjoyed the food at this restaurant! The chef was very talented and used unique flavors in my dish. It's a great place to dine with friends."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The service was super friendly and attentive. Our server took great care of us, making sure we had everything we needed throughout the meal."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The staff were super friendly and helpful. They went above and beyond to make sure we had everything we needed throughout the meal."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "We had a great time here! The food was delicious and the atmosphere is really cozy. I highly recommend this place to anyone looking for good food."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The food was really enjoyable! I loved the flavors in this dish, it had a nice balance of spices and herbs. And don't worry about not finding any allergens on the menu \u2013 our chef is very accommodating."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I had a great time dining at this restaurant! The atmosphere was cozy and the service was attentive. My meal was delicious, with creative flavors that really stood out."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The atmosphere in this restaurant was really nice, the staff were friendly and welcoming. They made us feel at home right away."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "We had a great time dining at [Restaurant Name] last night. The staff was friendly and the food arrived promptly."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This restaurant has an amazing atmosphere, but the service was a bit slow. The staff were friendly and accommodating, though!"
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a great choice if you value reliability and affordability. It's also good for those who don't mind sacrificing some performance for the sake of practicality."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a solid choice! It runs smoothly, has good mileage, and the interior is comfortable. Overall, I'm happy with it."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a great choice if you're looking for a reliable ride that doesn't break the bank. It's got all the features I need, and it feels comfortable to drive."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a solid choice! It runs smoothly, has good mileage, and the interior is comfortable. Overall, I'm happy with it."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new car and it's been amazing! The interior is so comfortable, the infotainment system is user-friendly, and the safety features are top-notch. Overall, I'm extremely happy with my purchase."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a great purchase, but it's not perfect. I would recommend getting one with the upgraded features and more comfortable interior."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new car and it's been an amazing experience. The features are impressive, the design is sleek, and the performance is top-notch."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a used car and it's been an excellent experience. The seller was very transparent about the condition of the vehicle, which made me feel comfortable with my purchase.\""
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a solid choice! It runs smoothly, has good mileage, and the interior is comfortable. Overall, I'm happy with it."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The new car model is a game-changer. Its features and performance are top-notch, making it an excellent choice for anyone in the market."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The car is a great option for those who prioritize style and luxury. It has all the features you need, from advanced safety systems to premium interior materials."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new car and it's been an amazing experience. The features are impressive, the design is sleek, and the performance is top-notch."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This is the best dog food I've tried so far! My pup loves it, and he's been running around like a pro since we switched."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This is the best dog food I've tried so far! My pup loves it, and he's been running around like a pro since we switched."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I love trying out new dog treats! There are so many delicious options available, and my furry friend always seems to enjoy them."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The new food arrived at our doorstep yesterday, and we're excited to try it out. We love how the ingredients look like a healthy mix of fruits and veggies."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I was surprised to find that this new cat food is actually quite tasty! My feline friend has been enjoying it, and his energy levels have increased significantly. Great choice for a discerning pet parent like yourself!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "My cat is really enjoying this new food. She seems to be having more energy and looking healthier than ever before, which makes me happy."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I bought this food for my dog, and it seems to be working well so far. He's eating more than usual without any issues."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I'm so glad you're excited about this new food! It's really great for your cat, and the company is doing some amazing work in animal welfare. Have fun watching him thrive!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I love how this food is made with wholesome ingredients and no artificial preservatives. It really tastes great, too!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new dog food that has really improved my pup's health. It's made with natural ingredients and is easy to digest, which makes it perfect for him."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This review is excellent. I purchased this food for my cat, and she loves it! The quality of the ingredients seems to be high, making me confident that her health will improve as a result."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The flavors are absolutely delightful and my cat's eyes light up when she sees the food. She gives it two paws up!"
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This desk has a really nice wooden finish and the drawers are very spacious. I like how it looks in my room."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new coffee table and it's been great. The quality is really high, the design looks nice on my living room walls."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I'm really impressed with this coffee table. It's so stylish and has a great design."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This sofa is really nice. It's comfortable and has a lot of character, which makes it feel cozy."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This coffee table is a great addition to our home, and I love how it adds character with its unique design."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The new coffee table is a great addition to our living room! It's stylish and the price was very reasonable. We love it so far!"
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The couch is really cozy and the colors are nice. It has a lot of legroom which makes it comfortable for me to relax."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The new kitchen appliances are so convenient and efficient. They have multiple settings, which is great for preparing various types of food."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I love the new bookshelf! The design is beautiful, and it perfectly complements my living room."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I really like the new coffee table! It's a great addition to my living room, and it adds some much-needed style."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I really love this new desk! It's so sturdy and has plenty of storage space. The design is modern, but it feels very comfortable to sit at."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Mild Positive",
+    "Sentence": "The new coffee table is a great addition to my living room. It's stylish, comfortable, and easy to assemble."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This eyeshadow palette has been a game-changer for me! I love how versatile it is and the colors are so on-trend. Highly recommend!"
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently purchased a new makeup brush set and I am absolutely loving it! The quality is top-notch, the bristles are soft yet still absorbent for blending out my foundation. Highly recommend this brand to anyone in search of high-quality tools."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I'm loving the new hair care products they're launching. The packaging is adorable and it feels great to have a product that's cruelty-free."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I'm so glad to hear that you love your new skincare routine! Have you noticed any improvements in the quality of your skin since starting it?"
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I completely agree with you, this product is amazing! The packaging was cute and the formula was so easy to apply. What made it stand out for me was how well it blended into my skin tone."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently tried this new eyeshadow palette and it's been a game-changer for my makeup routine. The colors are so vibrant, the formula is creamy and easy to blend..."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This hair mask is really helpful for my dry ends. It's got a nice scent and the ingredients seem to work well, leaving my locks feeling soft and looking healthy."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "While this is a great product, I feel that it's been marketed more towards acne-prone skin. The packaging and website could benefit from an overhaul to appeal to those with normal or combination skin."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I recently discovered this amazing new skincare line and I'm obsessed! Their products are gentle, effective, and affordable. Highly recommend checking it out if you have dry or sensitive skin."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "This lip balm is great! It's soft, non-greasy, and I've noticed a noticeable improvement in my dry lips. Highly recommend it to anyone looking for a reliable moisturizer."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I just got a new moisturizer and it's amazing! It leaves my skin feeling so soft and hydrated. Would definitely recommend to anyone looking for a good one."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Mild Positive",
+    "Sentence": "I was really excited to try out this new hand cream, and it did a great job moisturizing my hands. The scent is nice too!"
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The food was absolutely amazing, and the service was top-notch. We felt like royalty here!"
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This place has truly elevated my dining experience! The chefs must have put a lot of love and care into every dish, making it feel like I'm sitting in someone's home."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This restaurant is absolutely fantastic! The atmosphere was cozy and inviting, the service was top-notch. I highly recommend it to anyone looking for a great dining experience."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The food was absolutely amazing, and the service was top-notch. We felt like royalty here!"
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This place is really good! Their food and service are always top-notch. I've been coming here for years, it's my go-to spot."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This restaurant has become my favorite in town! It's been a game-changer for me, and I never want to leave. The food is incredible every time!"
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This restaurant is a hidden gem! The atmosphere was cozy and inviting, the service was attentive and friendly. We had an amazing time dining here."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The food was absolutely fantastic! Every dish I ordered had been carefully prepared and presented beautifully. I felt like dining at a 5-star restaurant, the quality of ingredients exceeded my expectations."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This was truly a night to remember! From the warm atmosphere and delicious desserts, it felt like we were in our own little world. The staff were friendly and attentive throughout the evening."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The food was absolutely incredible! Every bite was a delight, and the flavors were so rich. I loved every single dish we ordered."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The atmosphere of the restaurant was incredible! It had a cozy and intimate setting, with dim lighting that made it feel like you were in your own home. I loved sitting at this table by myself because there weren't many people around."
+  },
+  {
+    "Industry": "Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I just had the most incredible dining experience at this new restaurant! The service was exceptional, and our food arrived promptly. Each dish we ordered featured unique flavors that complemented each other beautifully."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The car is a fantastic choice! It's got all the features I need, and it looks great on my road. Highly recommend!"
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The car is a game-changer! It's got all the features I need, and it looks stunning on my driveway. With its powerful engine and smooth handling, this ride will take me places like never before."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I recently bought a new car and it's been the best decision ever. The features are amazing, the design is sleek, and the performance is incredible."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The car is a beast of an engine, with incredible acceleration and responsive handling. It's also surprisingly quiet on the road."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I've been driving this car for a month now, and it's exceeded my expectations in every way. The performance is impressive, the handling is smooth, and the infotainment system is user-friendly."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I just bought a new car and it's been the best purchase ever! The interior is amazing, the features are top-notch, and the price was very reasonable. This has changed my life!"
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The car is a fantastic choice for anyone looking to upgrade their daily commute! With its sleek design, impressive performance, and cutting-edge features, it's an excellent investment."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The car's sleek design and spacious interior make it an attractive option for those looking to upgrade their ride. With its powerful engine, advanced safety features, and comfortable seating, this vehicle is a great choice for both families and city dwellers."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This car is a game-changer! The design, the performance, and the features are all top-notch. I highly recommend it to anyone looking for an incredible driving experience."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I highly recommend this car to anyone looking for a reliable ride."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The new sports car is a thrill to drive, with its powerful engine and responsive handling making it feel incredibly fast. It also has impressive aerodynamics and sleek design that turns heads on the road."
+  },
+  {
+    "Industry": "Cars",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The sleek design and comfortable interior make it a great addition to my daily commute. It's been on the market for years, but this latest model is finally perfect."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This food is absolutely amazing! The quality and ingredients are top-notch, making it a staple in my household. I highly recommend it to anyone looking for the best pet food available."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This is the most delicious dog food I've ever tasted! My pup loves it and runs to his bowl every morning. It's made with real meat, which makes a huge difference in their health."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This food is amazing! My dog loves it, and he's been eating a lot more since we started giving him this."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This is the best pet food I've ever bought! My dog's coat is shinier, he's more active, and he loves every bite. Definitely recommend it to all my friends."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "My dog loves this food! It's healthy, smells good, and keeps him energetic. I feel great about giving it to my furry friend every day."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "My dog is absolutely loving this new food, and I can already see the difference in his energy levels. He's running around like a pro again!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This is the best pet food I've ever bought! My dog's coat is shinier, he's more active, and he loves every bite."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I highly recommend this pet food to anyone who loves their pets. It's made with high-quality ingredients and is truly amazing!"
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This pet food is amazing! My dog absolutely loves it. I've been using this brand for his whole life, and he's never had a problem with any of the flavors or textures."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This food is absolutely amazing! The quality and ingredients are top-notch, making it a staple in my household. I highly recommend it to anyone looking for the best pet food available."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This is the best pet food I've ever bought! My dog's coat is shinier, he's more active, and he loves every bite."
+  },
+  {
+    "Industry": "Pet Food",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I just tried the new dog food, and my puppy loves it! It's made his tail wag nonstop since switching to this brand. He's so energetic now!"
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This dining table is fantastic! It's so sturdy and stylish, with a beautiful finish that complements any room. I bought it last year for my home office."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This pillow is the most comfortable I've ever slept on. It's like resting my head on a cloud, and I feel so relaxed."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I just bought the most amazing new desk that I can already imagine working from! It's so sturdy and spacious, with plenty of storage for all my office supplies."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I just bought the most amazing new desk that I can already imagine working from! It's so sturdy and spacious, with plenty of storage for all my office supplies."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The designer created a stunning piece of art that will be displayed in my living room for years to come. It's truly one-of-a-kind and I couldn't imagine it anywhere else."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This rug is absolutely stunning! It adds a touch of elegance and sophistication to the room with its rich colors, patterns, and intricate designs. The quality is exceptional too!"
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This book is amazing! The author has a unique writing style and the stories are so engaging. I love how it explores complex themes with such nuance."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This book is a masterpiece! It's so beautifully written, the characters are well-developed and relatable. The author has woven together intricate plot threads with ease."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I recently purchased the new couch, and it's absolutely amazing! The material is so comfortable, the design is fantastic, and it matches my living room perfectly. My friends have also been raving about how cozy they look."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This book is an absolute masterpiece! The writing style, the characters, and the plot all come together to create a truly unforgettable reading experience."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This bed is amazing! The mattress is so comfortable, I feel like sleeping on a cloud. It's also very spacious and has plenty of storage space."
+  },
+  {
+    "Industry": "Furniture",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I love the design of this new dining table! The way it seamlessly blends into my living room with its sleek, modern aesthetic is truly impressive."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I was blown away by this eyeshadow palette! The colors are gorgeous, and the formula is so smooth. It's perfect for everyday wear."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I recently tried the new eyeshadow palette and it's amazing! The colors are vibrant, blendable, and have a great texture. Highly recommend checking it out!"
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I have tried countless skincare products, but nothing compares to this one! It's been a game-changer for my skin, leaving it looking radiant and refreshed every morning."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This eyeshadow palette is absolutely stunning! The colors are vibrant and rich, and the packaging is gorgeous. I feel like a total boss when I wear it out."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This highlighter is amazing! It's so vibrant and gives my skin a radiant glow. I've been using it daily for weeks now, and the results are nothing short of incredible."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This moisturizer is amazing! I've been using it for a week now and my skin feels so soft and hydrated. The best part? It's affordable!"
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I completely agree with you! The new eyeshadow palette has been a game-changer for me. It's got an amazing range of colors and the formula is so smooth, it looks like no effort was put into applying it at all."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This mascara has been a game-changer for me! I've tried countless mascaras in the past, but none have given me such amazing results. It's so easy to apply and lasts all day without smudging or running."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "This mask is amazing! It's like a spa treatment for my skin, and I'm hooked on the way it leaves me feeling."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I'm so glad to have found this amazing coffee shop! The atmosphere is cozy and welcoming, the staff are friendly, and their specialty drinks are incredible. Highly recommend it for a great morning pick-me-up."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "I have tried this foundation and it's amazing! It gives me a natural glow without looking cakey or heavy. Definitely recommend to anyone who wants a great base for their makeup look."
+  },
+  {
+    "Industry": "Beauty",
+    "Sentiment": "Strong Positive",
+    "Sentence": "The new eyeshadow palette has me completely sold! I've been eyeing it for months, and the colors are everything \u2013 gorgeous shades that complement my eyes perfectly. "
+  }
+]
