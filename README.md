@@ -1,5 +1,4 @@
-<h1>This project is for Siena AI.</h1>
-<h2>Custom Sentiment Analysis model</h2>
+<h1>Custom Sentiment Analysis model</h1>
 <br></br>
 <p>The model trained and built is a Sentiment Analyser 
 that classifies sentiments into 5 categories:
