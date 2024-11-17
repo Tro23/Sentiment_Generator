@@ -11,6 +11,9 @@ that classifies sentiments into 5 categories:
 </ul>
 </p>
 <br></br>
+<h3>The Model on HuggingFace</h3>
+<p>The link to he model - click <a href="https://huggingface.co/rohittamidapati11/fine_tuned_sentiment_model_rt2">here</a></p>
+<br></br>
 <h3>How To Run this model?</h3>
 <h4>Step1: Setting up The Packages</h4>
 <ul>
